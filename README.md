@@ -1,7 +1,12 @@
-Estudiante 1: Nicolas Camargo
+Estudiante 1: Nicolas David Camargo Prieto
+n.camargop@uniandes.edu.co
+202020782
 
 
 Estudiante 2: Juan Manuel Pérez
+jm.perezs1@uniandes.edu.co
+202021827
+
 
 
 #ISIS1225 - Estructura de un proyecto
